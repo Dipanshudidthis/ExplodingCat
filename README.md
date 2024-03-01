@@ -22,9 +22,9 @@ Redis Database: Utilizes Redis as a database to store user points.
 Bonus Features
 Real-Time Leaderboard Updates Real-Time Points: Points on the leaderboard are updated in real-time for all users playing simultaneously.
 
-![exp4](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/70938faf-e137-4ea6-b1e7-a566c8744217)
-![exp5](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/2f475d0f-98ae-4d35-b452-9cac5b440af5)
+![exp0](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/2cfcb120-50fb-41a6-9adf-0623be5dace9)
 ![exp2](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/7b8b4213-8101-4067-b5b8-ae24023fa29c)
 ![exp3](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/aca1f101-51fd-4e24-810a-b3115115f198)
+![exp4](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/70938faf-e137-4ea6-b1e7-a566c8744217)
+![exp5](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/2f475d0f-98ae-4d35-b452-9cac5b440af5)
 ![exp1](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/63eb58cf-9d42-4555-8c9f-6ac25744688d)
-![exp0](https://github.com/Dipanshudidthis/ExplodingCat/assets/95027399/2cfcb120-50fb-41a6-9adf-0623be5dace9)
