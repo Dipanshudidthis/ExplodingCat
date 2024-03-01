@@ -1,0 +1,40 @@
+
+.modal-content h2 {
+    margin-top: 5px;
+    color: black
+}
+
+.modal-content p {
+    font-size: 18px;
+}
+
+.modal-content button {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+.individualscore{
+    display: flex;
+    justify-content: center;
+}
+.highscore-cont {
+    width: 30%;
+    /* border: 3px solid rgb(255, 255, 255); */
+    color: white
+}
+
+/* .highscore-cont {
+    padding-left: 10px;
+} */
+
+.highscore {
+    background-color: #F47622;
+    max-width: 300px;
+    height: 40%;
+    margin: 0 auto;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.highscore-cont h1 {
+    text-align: center;
+    color: white
+}
